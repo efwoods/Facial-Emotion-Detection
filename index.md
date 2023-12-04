@@ -1,2 +1,0 @@
-[FacialEmotionDetection/Evan_Woods_Notebook_Facial_Emotion_Detection_Final_Submission.ipynb
-](https://github.com/efwoods/FacialEmotionDetection/blob/main/Evan_Woods_Notebook_Facial_Emotion_Detection_Final_Submission.ipynb)https://github.com/efwoods/FacialEmotionDetection/blob/main/Evan_Woods_Notebook_Facial_Emotion_Detection_Final_Submission.ipynb
